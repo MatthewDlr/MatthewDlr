@@ -1,15 +1,8 @@
 Hi there 👋🏻, I'm Matthew
 ===============================================================================================================================
 
-Software Engineer / UX Engineer
+Software Engineer
 -----------------
-
-I'm a 23yo engineering student from France. I've been practicing user experience design for a few years now, but my journey with coding began in 2022, and I started exploring web development in 2023. I've decided to specialize myself in front-end development because I know how infuriating a bad UI can be, but I'm also able to do full-stack too. Oh and recently, I've explored TensorFlow and built my first neural network, capable of running directly in a browser. Driven by a passion for perfection, I spend a lot of time refining every aspect of my UI designs and actively search for opportunities to learn and grow as a developer and human being.
-
-*   🌍  I'm based in Paris
-*   🖥️  See my portfolio at [mdelarue.dev](http://mdelarue.dev)
-*   ✉️  You can contact me at [matthieu.delarue@berkeley.edu](mailto:matthieu.delarue@berkeley.edu)
-*   🧠  I'm learning Next.js
     
 ### Skills 
 <p align="left">
@@ -20,18 +13,3 @@ I'm a 23yo engineering student from France. I've been practicing user experience
 ### Stats
 ![CodeFlexStats](https://codeflex.pages.dev/api/og/compare?avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F57815261%3Fv%3D4&github=1413&lc=64&name=Matthieu+Delarue)
 
-
-<!--
-**MatthewDlr/MatthewDlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
